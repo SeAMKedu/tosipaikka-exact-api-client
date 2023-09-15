@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/691903433.svg)](https://zenodo.org/badge/latestdoi/691903433)
+
 ![kuva](/images/tosipaikka_logot.png)
 
 # TosiPaikka - EXACT API Client
